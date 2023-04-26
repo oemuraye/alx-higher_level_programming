@@ -1,9 +1,0 @@
-chmod u+x 0-readme.js
-chmod u+x 1-writeme.js
-chmod u+x 2-statuscode.js
-chmod u+x 3-starwars_title.js
-chmod u+x 4-starwars_count.js
-chmod u+x 5-request_store.js
-chmod u+x 6-completed_tasks.js
-chmod u+x 100-starwars_characters.js
-chmod u+x 101-starwars_characters.js
